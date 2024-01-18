@@ -10,7 +10,11 @@ Create python virtual environment and activate it:
 
 python3 -m venv venv/		# make venv called venv
 
+Ubuntu and Macbook:
 source venv/bin/activate	# activate venv
+
+Windows:
+venv/bin/activate	# activate venv
 
 Install the requirements:
 
