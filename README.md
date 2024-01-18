@@ -1,6 +1,6 @@
 # Music-generator-webapp
 
-##run the code
+## run the code
 
 Download the MUSIC_GEN folder to a folder of you choice
 
